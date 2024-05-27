@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #c8a2c8;
+  font-family: "Times New Roman", Times, serif;
+}
+
+header img {
+  width: 100px;
+  height: 100px;
+}
+
+header {
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 1rem rgb(71, 0, 85);
+  text-decoration: none;
+  width: 100% !important;
+  font-size: 20px;
+}
+
+header ul {
+  display: flex;
+  margin: 38px;
+  padding-right: 0px;
+}
+
+header li {
+  list-style-type: none;
+  cursor: pointer;
+  padding-left: 2rem;
+}
+
+header a {
+  text-decoration: none !important;
+  color: #a77aa7;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #5f145d;
+  color: white;
+  width: 100%;
+  height: 50px;
+}
+.inicio {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.inicio img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.for {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.formu {
+  display: flex;
+  margin-left: 27%;
+  width: 40%;
+  padding: 40px 40px 40px 40px;
+  border-radius: 20px;
+  background-color: #a77aa7;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  margin-bottom: 90px;
+  box-shadow: 2px 2px 2px 0 #631c62;
+}
+
+.formu button {
+  font-size: 17px;
+  background-color: #a515a0;
+  border: none;
+  border-radius: 3px;
+  margin-top: 15px;
+  box-shadow: 0 0 15px #5f145d;
+  width: 100px;
+  height: 50px;
+  color: white;
+  text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.formu input {
+  display: block;
+  width: 100%;
+  padding: 5px 0;
+  margin: 20px 0;
+  box-sizing: border-box;
+  border: none;
+  background: transparent;
+  border-bottom: solid 1px;
+  color: #5f145d;
+}
+
+.formu input:focus {
+  border: none;
+  border-bottom: solid 1px;
+  outline: none;
+}
+
+.formu > div {
+  position: relative;
+}
+.formu label {
+  font-size: 16px;
+  bottom: 5px;
+}
+
+#botao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.radio {
+  text-align: center;
+}
+
+h4,
+h2,
+h1,
+h3,
+h4,
+h5,
+h6,
+p {
+  text-align: center;
+  color: #2e052d;
+}
+
+.inicio h1,
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(32, 0, 55);
+}
+
+.inicio h2 {
+  font-style: italic;
+  color: rgb(32, 0, 55);
+}
+
+.t1,
+.t2,
+.t3 {
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-items: center;
+  text-align: justify;
+  gap: 30px;
+  font-size: 18px;
+}
+
+.t1 img,
+.t2 img,
+.t3 img {
+  width: 250px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+.denuncias {
+  padding: 20px;
+  margin-top: 100px;
+  background-color: #5f145d;
+  color: white !important;
+  border-radius: 40px;
+  box-shadow: 10px 10px 10px 10px #2e052d;
+}
+
+.condutas {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.comentarios {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  color: white !important;
+  border-radius: 20px;
+  background-image: linear-gradient(#5f145d, #a77aa7);
+  font-size: 15px;
+}
+
+.comentarios input {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px rgb(212, 98, 223);
+}
+
+.comentarios button {
+  width: 100px;
+  height: 30px;
+  background-color: #5f145d;
+  border-radius: 20px;
+}
+
+.nos {
+  padding: 20px;
+}
+
+.fotos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fotos img {
+  border-radius: 100%;
+}
+
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+figcaption {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2e052d;
+}
