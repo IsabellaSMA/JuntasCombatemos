@@ -3,7 +3,6 @@
   <img width="50%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/Capa%20Juntas%20Combatemos.png"/>
 </p>
 
-Repositório para postagem do projeto de formação da {Reprograma}
 
 ## Sobre o Projeto:
 O projeto foi elaborado para fins de conclusão do curso Conectadas da {Reprograma}.
