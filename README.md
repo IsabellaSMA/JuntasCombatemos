@@ -31,7 +31,8 @@ Com o apoio e ensinamentos de Diana Martine, a equipe elaborou um modelo de site
 - Katiavieira
 - Livia
 ## Agradecimentos:
-Primeiramente gostaria de agradecer ao mercado livre e a {Reprograma} por 
+Primeiramente gostaria de agradecer ao mercado livre e a {Reprograma} por proporcionar a chance de participar do programa Conectadas, um agradecimento às colegas participantes de todo o programa, às minhas colegas de equipe, pois sem elas a elaboração do projeto nao seria possível e principalmente às mentoras e professoras do {Reprograma}
+
 - Rokssane Marine- mentora/coordenadora. Linkedin: "https://www.linkedin.com/in/rokssanemarina/"
-- Priscila França- mentora/coordenadora. Linkedin: "https://www.linkedin.com/in/priscillamfcorreia/"
+- Priscila França- mentora/coordenadora/facilitadora. Linkedin: "https://www.linkedin.com/in/priscillamfcorreia/"
 - Diana Martine - Instrutora de front end, Diana contribuiu para o aprendizado de frontend. Linkedin: "https://www.linkedin.com/in/dianamartine/"
