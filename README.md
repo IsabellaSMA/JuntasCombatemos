@@ -8,11 +8,15 @@ Repositório para postagem do projeto de formação da {Reprograma}
 ## Sobre o Projeto:
 O projeto foi elaborado para fins de conclusão do curso Conectadas da {Reprograma}.
 Consiste em uma iniciativa de conscientização e apoio à mulheres vítimas de violência doméstica. Durante a elaboração do projeto, com o apoio de nossas coordenadoras e instrutoras, obtemos conhecimento relacionado a pesquisas qualitativas e quantitativas, a modelagem de uma Persona, utilizamos um canvas de modelo de negócio, elaboramos um fluxo de tarefas do nosso protótipo de aplicativo e com isso, iniciamos o projeto. 
+<p align = "center">
+  <img width="20%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/app_gif.gif"
+</p>
+
 Com o apoio e ensinamentos de Diana Martine, a equipe elaborou um modelo de site com a ideia principal do projeto, no site possui as sessões:"Início", "Denúncias","Boas Condutas","Comentários","Seja um Voluntário(a)","Sobre nós". Além disso, possui uma sessão com um formulário dedicado para enviar comentários
 
-<p align="center" width="100%"> (postar gifs dos vídeos)
-    <img width="30%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/Site%20juntas%20Combatemos.mp4"> 
-    <img width="30%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/appJuntas_Combatemos.mp4">  
+<p align="center" width="100%">
+    <img width="35%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/Site%20JC.png"> 
+    <img width="30%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/Site_gif.gif">  
 </p>
 
 
