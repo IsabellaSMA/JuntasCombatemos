@@ -9,7 +9,7 @@ Repositório para postagem do projeto de formação da {Reprograma}
 O projeto foi elaborado para fins de conclusão do curso Conectadas da {Reprograma}.
 Consiste em uma iniciativa de conscientização e apoio à mulheres vítimas de violência doméstica. Durante a elaboração do projeto, com o apoio de nossas coordenadoras e instrutoras, obtemos conhecimento relacionado a pesquisas qualitativas e quantitativas, a modelagem de uma Persona, utilizamos um canvas de modelo de negócio, elaboramos um fluxo de tarefas do nosso protótipo de aplicativo e com isso, iniciamos o projeto. 
 <p align = "center">
-  <img width="20%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/app_gif.gif"
+  <img width="17%" src="https://github.com/IsabellaSMA/JuntasCombatemos/blob/main/app_gif.gif"
 </p>
 
 Com o apoio e ensinamentos de Diana Martine, a equipe elaborou um modelo de site com a ideia principal do projeto, no site possui as sessões:"Início", "Denúncias","Boas Condutas","Comentários","Seja um Voluntário(a)","Sobre nós". Além disso, possui uma sessão com um formulário dedicado para enviar comentários
@@ -26,10 +26,11 @@ Com o apoio e ensinamentos de Diana Martine, a equipe elaborou um modelo de site
 
 ## Responsáveis:
 - Isabella SMA
-- Rafaella
-- Sofia
-- Katiavieira
-- Livia
+- Rafaella. Linkedin: "https://www.linkedin.com/in/rafaela-eduarda-71382322b/"
+- Sofia. Linkedin: "https://www.linkedin.com/in/sofia-felix-de-alencar/"
+- Francielle Vieira. Linkedin: "https://www.linkedin.com/in/francielle-v-1b0026223/"
+- Livia. Linkedin não identificado
+  
 ## Agradecimentos:
 Primeiramente gostaria de agradecer ao mercado livre e a {Reprograma} por proporcionar a chance de participar do programa Conectadas, um agradecimento às colegas participantes de todo o programa, às minhas colegas de equipe, pois sem elas a elaboração do projeto nao seria possível e principalmente às mentoras e professoras do {Reprograma}
 
