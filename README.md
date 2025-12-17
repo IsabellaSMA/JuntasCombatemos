@@ -30,11 +30,11 @@ Com o apoio e ensinamentos de Diana Martine, a equipe elaborou um modelo de site
 - Livia. Linkedin não identificado
 
 <div align="left">
-  <img src="/src/img/bella.jpeg" alt="IsabellaSMA" width="30">
-  <img src="/src/img/rafaela.jpeg" alt="Rafaella" width="30">
-  <img src="/src/img/sofia.jpeg" alt="Sofia" width="30">
-  <img src="/src/img/fran.jpeg" alt="Franciele" width="30">
-  <img src="/src/img/livia.jpeg" alt="Livia" width="30">
+  <img src="/src/img/bella.jpeg" alt="IsabellaSMA" width="180">
+  <img src="/src/img/rafaela.jpeg" alt="Rafaella" width="180">
+  <img src="/src/img/sofia.jpeg" alt="Sofia" width="180">
+  <img src="/src/img/fran.jpeg" alt="Franciele" width="180">
+  <img src="/src/img/livia.jpeg" alt="Livia" width="180">
 </div>
 <br>
 
